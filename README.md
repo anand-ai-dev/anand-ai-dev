@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Anand 👋
 
-<!--
-**anand-ai-dev/anand-ai-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech AIML Student | Aspiring Full Stack Developer | AI & Web Development Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning
+- 💻 Aspiring Full Stack Developer
+- 🌱 Currently learning MERN Stack and modern web technologies
+- 🤖 Interested in AI-powered web applications
+- 📚 Passionate about building real-world projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Programming Languages
+- JavaScript
+- Python
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 Enterprise RAG Assistant
+Production-grade GenAI assistant with semantic search and source citations.
+
+### 🎙️ Voice AI Healthcare Agent
+Real-time multilingual AI healthcare assistant.
+
+### 💧 Water Awareness App
+Mobile application promoting water conservation and awareness.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: Add your LinkedIn URL
+- Email: Add your professional email
+
+---
+
+⭐ Always learning and building new things.
