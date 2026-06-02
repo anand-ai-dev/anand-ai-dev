@@ -2,63 +2,43 @@
 
 ### B.Tech AIML Student | Aspiring Full Stack Developer | AI & Web Development Enthusiast
 
----
+## About Me
 
-## 🚀 About Me
+* 🎓 B.Tech AIML Student
+* 💻 Learning Full Stack Development with the MERN Stack
+* 🤖 Interested in AI and Web Development
+* 🚀 Building projects and improving my development skills
+* 🌱 Currently learning React, Node.js, Express.js, and MongoDB
 
-- 🎓 B.Tech in Artificial Intelligence & Machine Learning
-- 💻 Aspiring Full Stack Developer
-- 🌱 Currently learning MERN Stack and modern web technologies
-- 🤖 Interested in AI-powered web applications
-- 📚 Passionate about building real-world projects
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Tailwind CSS
+
+* HTML
+* CSS
+* JavaScript
+* React.js
+* Tailwind CSS
 
 ### Backend
-- Node.js
-- Express.js
+
+* Node.js
+* Express.js
 
 ### Database
-- MongoDB
 
-### Programming Languages
-- JavaScript
-- Python
+* MongoDB
 
 ### Tools
-- Git
-- GitHub
-- VS Code
 
----
+* Git
+* GitHub
+* VS Code
 
-## 📌 Featured Projects
+## Current Focus
 
-### 🤖 Enterprise RAG Assistant
-Production-grade GenAI assistant with semantic search and source citations.
+* Building Full Stack MERN Projects
+* Learning Backend Development
+* Exploring AI-powered Web Applications
 
-### 🎙️ Voice AI Healthcare Agent
-Real-time multilingual AI healthcare assistant.
-
-### 💧 Water Awareness App
-Mobile application promoting water conservation and awareness.
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: Add your LinkedIn URL
-- Email: Add your professional email
-
----
-
-⭐ Always learning and building new things.
+⭐ Always learning and building.
